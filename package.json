@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Personal project to demonstrate a RESTful API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwpark511/rest-api.git"
+  },
+  "author": "David Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwpark511/rest-api/issues"
+  },
+  "homepage": "https://github.com/jwpark511/rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
